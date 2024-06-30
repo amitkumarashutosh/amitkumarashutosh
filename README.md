@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **amitkumarashutos@gmail.com**
 
-- 📄 Know about my experiences [https://amitkrashutosh.netlify.app/](https://amitkumarashutosh.netlify.app/)
+- 📄 Know about my experiences [https://amitkumarashutosh.netlify.app/](https://amitkumarashutosh.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
