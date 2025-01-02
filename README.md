@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar Ashutosh</h1>
-<h3 align="center">A passionate frontend developer always keep to learn more.</h3>
+<h3 align="center">A passionate full stack developer always keep to learn more.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitkumarashutosh" alt="amitkumarashutosh" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce site](https://github.com/amitkumarashutosh)
+- 🔭 I’m currently working on [Uber Clone Project](https://github.com/amitkumarashutosh/Uber-Clone)
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [https://amitkrashutosh.netlify.app/](https://amitkrashutosh.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://amitkrashutosh.netlify.app/](https://amitkumarashutosh.netlify.app/)
 
 - 💬 Ask me about **React and Node**
 
