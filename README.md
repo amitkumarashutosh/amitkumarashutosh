@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Uber Clone Project](https://github.com/amitkumarashutosh/Uber-Clone)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Web3**
 
 - 👨‍💻 All of my projects are available at [https://amitkrashutosh.netlify.app/](https://amitkumarashutosh.netlify.app/)
 
